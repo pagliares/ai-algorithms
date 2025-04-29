@@ -1,2 +1,5 @@
-# ai-algorithms
-Artificial Intelligence Algorithms Implemented in Java
+# Artificial Intelligence (AI) Algorithms
+
+AI Algorithms Implemented in the Java Programming Language.
+
+
